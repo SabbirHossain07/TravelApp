@@ -11,6 +11,22 @@
 		389CE7E12837A5A300E79535 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE7E02837A5A300E79535 /* ContentView.swift */; };
 		389CE7E32837A5A400E79535 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 389CE7E22837A5A400E79535 /* Assets.xcassets */; };
 		389CE7E62837A5A400E79535 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 389CE7E52837A5A400E79535 /* Preview Assets.xcassets */; };
+		389CE7F12837A82E00E79535 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE7F02837A82E00E79535 /* Extension.swift */; };
+		389CE7F32837A8D200E79535 /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE7F22837A8D200E79535 /* Place.swift */; };
+		389CE7F52837AAA400E79535 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE7F42837AAA400E79535 /* Data.swift */; };
+		389CE7F72837AC3400E79535 /* Activity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE7F62837AC3400E79535 /* Activity.swift */; };
+		389CE7F92837AC6300E79535 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE7F82837AC6300E79535 /* HomeView.swift */; };
+		389CE7FB2837ACD500E79535 /* PlaceFinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE7FA2837ACD500E79535 /* PlaceFinder.swift */; };
+		389CE7FD2837B5E100E79535 /* MapMarker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE7FC2837B5E100E79535 /* MapMarker.swift */; };
+		389CE7FF2838390200E79535 /* TopNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE7FE2838390200E79535 /* TopNavigationView.swift */; };
+		389CE8012838396800E79535 /* FlightView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE8002838396800E79535 /* FlightView.swift */; };
+		389CE8032838399700E79535 /* FlightItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE8022838399700E79535 /* FlightItemView.swift */; };
+		389CE805283839E800E79535 /* PlaceCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE804283839E800E79535 /* PlaceCardView.swift */; };
+		389CE80728383A5800E79535 /* PagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE80628383A5800E79535 /* PagerView.swift */; };
+		389CE80928383AA300E79535 /* PlaceDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE80828383AA300E79535 /* PlaceDetailView.swift */; };
+		389CE80B28383AD200E79535 /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE80A28383AD200E79535 /* ActivityView.swift */; };
+		389CE80D28383AF700E79535 /* ActivityBookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE80C28383AF700E79535 /* ActivityBookView.swift */; };
+		389CE80F28383B1B00E79535 /* InfoItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 389CE80E28383B1B00E79535 /* InfoItemView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +35,22 @@
 		389CE7E02837A5A300E79535 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		389CE7E22837A5A400E79535 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		389CE7E52837A5A400E79535 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		389CE7F02837A82E00E79535 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		389CE7F22837A8D200E79535 /* Place.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
+		389CE7F42837AAA400E79535 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		389CE7F62837AC3400E79535 /* Activity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Activity.swift; sourceTree = "<group>"; };
+		389CE7F82837AC6300E79535 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		389CE7FA2837ACD500E79535 /* PlaceFinder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceFinder.swift; sourceTree = "<group>"; };
+		389CE7FC2837B5E100E79535 /* MapMarker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapMarker.swift; sourceTree = "<group>"; };
+		389CE7FE2838390200E79535 /* TopNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNavigationView.swift; sourceTree = "<group>"; };
+		389CE8002838396800E79535 /* FlightView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightView.swift; sourceTree = "<group>"; };
+		389CE8022838399700E79535 /* FlightItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlightItemView.swift; sourceTree = "<group>"; };
+		389CE804283839E800E79535 /* PlaceCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceCardView.swift; sourceTree = "<group>"; };
+		389CE80628383A5800E79535 /* PagerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PagerView.swift; sourceTree = "<group>"; };
+		389CE80828383AA300E79535 /* PlaceDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaceDetailView.swift; sourceTree = "<group>"; };
+		389CE80A28383AD200E79535 /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		389CE80C28383AF700E79535 /* ActivityBookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityBookView.swift; sourceTree = "<group>"; };
+		389CE80E28383B1B00E79535 /* InfoItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoItemView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +84,10 @@
 			isa = PBXGroup;
 			children = (
 				389CE7DE2837A5A300E79535 /* TravelApp.swift */,
-				389CE7E02837A5A300E79535 /* ContentView.swift */,
+				389CE7EF2837A81400E79535 /* Extension */,
+				389CE7EC2837A5D100E79535 /* Views */,
+				389CE7ED2837A5DA00E79535 /* Model */,
+				389CE7EE2837A5F100E79535 /* ViewModel */,
 				389CE7E22837A5A400E79535 /* Assets.xcassets */,
 				389CE7E42837A5A400E79535 /* Preview Content */,
 			);
@@ -65,6 +100,51 @@
 				389CE7E52837A5A400E79535 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		389CE7EC2837A5D100E79535 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				389CE7E02837A5A300E79535 /* ContentView.swift */,
+				389CE7F82837AC6300E79535 /* HomeView.swift */,
+				389CE80C28383AF700E79535 /* ActivityBookView.swift */,
+				389CE80A28383AD200E79535 /* ActivityView.swift */,
+				389CE80828383AA300E79535 /* PlaceDetailView.swift */,
+				389CE7FC2837B5E100E79535 /* MapMarker.swift */,
+				389CE7FE2838390200E79535 /* TopNavigationView.swift */,
+				389CE8002838396800E79535 /* FlightView.swift */,
+				389CE8022838399700E79535 /* FlightItemView.swift */,
+				389CE804283839E800E79535 /* PlaceCardView.swift */,
+				389CE80628383A5800E79535 /* PagerView.swift */,
+				389CE80E28383B1B00E79535 /* InfoItemView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		389CE7ED2837A5DA00E79535 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				389CE7F22837A8D200E79535 /* Place.swift */,
+				389CE7F62837AC3400E79535 /* Activity.swift */,
+				389CE7F42837AAA400E79535 /* Data.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		389CE7EE2837A5F100E79535 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				389CE7FA2837ACD500E79535 /* PlaceFinder.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		389CE7EF2837A81400E79535 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				389CE7F02837A82E00E79535 /* Extension.swift */,
+			);
+			path = Extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +217,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				389CE80728383A5800E79535 /* PagerView.swift in Sources */,
+				389CE7F72837AC3400E79535 /* Activity.swift in Sources */,
+				389CE7FB2837ACD500E79535 /* PlaceFinder.swift in Sources */,
+				389CE7F92837AC6300E79535 /* HomeView.swift in Sources */,
+				389CE8032838399700E79535 /* FlightItemView.swift in Sources */,
+				389CE80B28383AD200E79535 /* ActivityView.swift in Sources */,
+				389CE7F12837A82E00E79535 /* Extension.swift in Sources */,
+				389CE7F52837AAA400E79535 /* Data.swift in Sources */,
+				389CE805283839E800E79535 /* PlaceCardView.swift in Sources */,
+				389CE7FD2837B5E100E79535 /* MapMarker.swift in Sources */,
+				389CE7FF2838390200E79535 /* TopNavigationView.swift in Sources */,
+				389CE80928383AA300E79535 /* PlaceDetailView.swift in Sources */,
 				389CE7E12837A5A300E79535 /* ContentView.swift in Sources */,
 				389CE7DF2837A5A300E79535 /* TravelApp.swift in Sources */,
+				389CE80D28383AF700E79535 /* ActivityBookView.swift in Sources */,
+				389CE8012838396800E79535 /* FlightView.swift in Sources */,
+				389CE7F32837A8D200E79535 /* Place.swift in Sources */,
+				389CE80F28383B1B00E79535 /* InfoItemView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
